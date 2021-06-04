@@ -4,10 +4,12 @@ h1 {
   color: red;
 }
 p {
-  font-family: sans-serif;
+  font-family: monospace;
+  font-size: 40px
 }
 ul {
-  line-height: 40px
+  line-height: 45px
+  font-style: normal;
 }
 strong {
   font-style: italic;
@@ -16,5 +18,5 @@ em {
   font-style: bold;
 }
 ol {
-  font-style: oblique;
+  font-style: normal;
 }
